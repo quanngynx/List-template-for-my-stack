@@ -1,7 +1,8 @@
 # List-template-for-my-stack
+
 A list of templates for starting projects
 
-## NodeJS 
+## NodeJS
 
 - Layered Architecture
 - Event-Driven Architecture (EDA)
@@ -16,10 +17,11 @@ A list of templates for starting projects
 
 ## ReactJS + TaildwindCSS
 
-## ReactJS + Webpack
+## ReactJS + Vite
 
-## Angular + TailwindCSS
+- libraries:
+...
+- plugin:
+...
 
-## Angular + Webpack
-
-# Coming soon. . .
+# Coming soon.
